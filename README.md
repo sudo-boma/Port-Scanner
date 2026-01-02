@@ -221,4 +221,3 @@ result = sock.connect_ex((remote_server_ip, port))
 - Better error handling
 - Enhanced reporting features
 - Documentation improvements
-- 
